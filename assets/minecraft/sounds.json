@@ -2,7 +2,7 @@
     "entity.player.death": {
         "replace": true,
         "sounds": [
-            "entity/player/death"
+            "nyang"
         ]
     }
 }

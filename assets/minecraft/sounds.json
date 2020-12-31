@@ -1,8 +1,14 @@
 {
-    "entity.player.death": {
+    "entity.cat.ambient": {
         "replace": true,
         "sounds": [
-            "nyang"
+            "entity/cat/ambient"
+        ]
+    },
+    "entity.cat.stray_ambient": {
+        "replace": true,
+        "sounds": [
+            "entity/cat/ambient"
         ]
     }
 }
